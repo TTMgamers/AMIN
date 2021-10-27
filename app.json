@@ -12,21 +12,21 @@
     "kurrxd09": {
       "description": "Get the API key here https://api.xteam.xyz",
       "required": true
-    },
+    }
     "CpGSLymOQy9KfTKgQZr9eDSYqqR": {
       "description": "Get the API key here https://api.zeks.xyz",
       "required": true
     },
     "SHERLYNN BOTZ": {
-      "description": "Enter Your Bot Name",
+      "description": "TOGA BOTZ",
       "required": false
     },
-    "6285157072227": {
-      "description": "your whatsapp number",
+    "6283829386551": {
+      "description": "083829386551",
       "required": true
     },
     "6281905390184": {
-      "description": "your whatsapp bot number",
+      "description": "083829386551",
       "required": false
     }
 },
